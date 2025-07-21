@@ -1,16 +1,2 @@
-# Environments
+sprites/
 .env
-venv/
-
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-*build/
-*dist/
-*egg-info/
-
-# Data
-api-data/
-pokemon.json
