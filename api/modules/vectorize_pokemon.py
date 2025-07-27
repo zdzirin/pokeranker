@@ -3,6 +3,7 @@ import json
 from hashlib import sha256
 
 example = {
+    'id': 1,
     'order': 1,
     'pokedex_number': 1,
     'species_index': 1,
